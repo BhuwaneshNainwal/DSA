@@ -1,0 +1,1 @@
+The latest Oracle version, the 19C, was released in early January 2019.

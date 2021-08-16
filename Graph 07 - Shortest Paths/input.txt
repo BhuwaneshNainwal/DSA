@@ -1,0 +1,4 @@
+3 3
+Rahul Ajay 100
+Ajay Neha 50
+Neha Rahul 40

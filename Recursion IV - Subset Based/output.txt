@@ -1,0 +1,5 @@
+ABCD
+ABX
+AMD
+BCD
+BX

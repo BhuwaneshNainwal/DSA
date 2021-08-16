@@ -1,0 +1,1 @@
+1> Greedy will pass for Indian denominations but it might fail for other currency.  
